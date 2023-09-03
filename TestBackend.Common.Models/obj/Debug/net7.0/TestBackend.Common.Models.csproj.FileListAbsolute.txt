@@ -1,0 +1,59 @@
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.deps.json
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.pdb
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.csproj.AssemblyReference.cache
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.AssemblyInfoInputs.cache
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.AssemblyInfo.cs
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\refint\TestBackend.Common.Models.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.pdb
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\ref\TestBackend.Common.Models.dll
+E:\Программирование\Обучение\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.deps.json
+E:\Программирование\Обучение\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.dll
+E:\Программирование\Обучение\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.pdb
+E:\Программирование\Обучение\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.csproj.AssemblyReference.cache
+E:\Программирование\Обучение\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Обучение\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.AssemblyInfoInputs.cache
+E:\Программирование\Обучение\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.AssemblyInfo.cs
+E:\Программирование\Обучение\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.csproj.CoreCompileInputs.cache
+E:\Программирование\Обучение\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.dll
+E:\Программирование\Обучение\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\refint\TestBackend.Common.Models.dll
+E:\Программирование\Обучение\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.pdb
+E:\Программирование\Обучение\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\ref\TestBackend.Common.Models.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.deps.json
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.pdb
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.csproj.AssemblyReference.cache
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.AssemblyInfoInputs.cache
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.AssemblyInfo.cs
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\refint\TestBackend.Common.Models.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.pdb
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\ref\TestBackend.Common.Models.dll
+E:\Программирование\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.deps.json
+E:\Программирование\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.dll
+E:\Программирование\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.pdb
+E:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.AssemblyInfoInputs.cache
+E:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.AssemblyInfo.cs
+E:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.csproj.CoreCompileInputs.cache
+E:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.dll
+E:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\refint\TestBackend.Common.Models.dll
+E:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.pdb
+E:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\ref\TestBackend.Common.Models.dll
+F:\Программирование\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.deps.json
+F:\Программирование\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.dll
+F:\Программирование\Test_Backend\TestBackend.Common.Models\bin\Debug\net7.0\TestBackend.Common.Models.pdb
+F:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.csproj.AssemblyReference.cache
+F:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.AssemblyInfoInputs.cache
+F:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.AssemblyInfo.cs
+F:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.csproj.CoreCompileInputs.cache
+F:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.dll
+F:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\refint\TestBackend.Common.Models.dll
+F:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\TestBackend.Common.Models.pdb
+F:\Программирование\Test_Backend\TestBackend.Common.Models\obj\Debug\net7.0\ref\TestBackend.Common.Models.dll

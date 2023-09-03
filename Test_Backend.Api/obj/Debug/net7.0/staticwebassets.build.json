@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XziZ87mqH2BsJVhW2LCnCTy69nQonCTZ3N2BeidVB3M=",
+  "Source": "TestBackend.Api",
+  "BasePath": "_content/TestBackend.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

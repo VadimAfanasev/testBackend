@@ -1,0 +1,394 @@
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.AssemblyReference.cache
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.AssemblyInfoInputs.cache
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.AssemblyInfo.cs
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.CoreCompileInputs.cache
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.exe
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.deps.json
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.runtimeconfig.json
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.pdb
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.TestBackend.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.TestBackend.Api.props
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestBackend.Api.props
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestBackend.Api.props
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\scopedcss\bundle\TestBackend.Api.styles.css
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.CopyComplete
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\refint\TestBackend.Api.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.pdb
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.genruntimeconfig.cache
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\ref\TestBackend.Api.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\appsettings.Development.json
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\appsettings.json
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.exe
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.deps.json
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.runtimeconfig.json
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.pdb
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Azure.Core.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Humanizer.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.AssemblyReference.cache
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.AssemblyInfoInputs.cache
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.AssemblyInfo.cs
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.CoreCompileInputs.cache
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.TestBackend.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.TestBackend.Api.props
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestBackend.Api.props
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestBackend.Api.props
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\scopedcss\bundle\TestBackend.Api.styles.css
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.CopyComplete
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\refint\TestBackend.Api.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.pdb
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.genruntimeconfig.cache
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\ref\TestBackend.Api.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Common.Models.dll
+C:\Users\analytic\Desktop\123\Programming\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Common.Models.pdb
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Common.Models.dll
+E:\Программирование\Обучение\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Common.Models.pdb
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.exe
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.deps.json
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.runtimeconfig.json
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.pdb
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Common.Models.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Common.Models.pdb
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.AssemblyReference.cache
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.AssemblyInfoInputs.cache
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.AssemblyInfo.cs
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.CoreCompileInputs.cache
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.TestBackend.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.TestBackend.Api.props
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestBackend.Api.props
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestBackend.Api.props
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\scopedcss\bundle\TestBackend.Api.styles.css
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.CopyComplete
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\refint\TestBackend.Api.dll
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.pdb
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.genruntimeconfig.cache
+C:\Users\analytic\Downloads\Test_Backend (1)\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\ref\TestBackend.Api.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\appsettings.Development.json
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\appsettings.json
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.exe
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.deps.json
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.runtimeconfig.json
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.pdb
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Azure.Core.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Humanizer.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Common.Models.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Common.Models.pdb
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.AssemblyReference.cache
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.AssemblyInfoInputs.cache
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.AssemblyInfo.cs
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.CoreCompileInputs.cache
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.TestBackend.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.TestBackend.Api.props
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestBackend.Api.props
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestBackend.Api.props
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\scopedcss\bundle\TestBackend.Api.styles.css
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.CopyComplete
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\refint\TestBackend.Api.dll
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.pdb
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.genruntimeconfig.cache
+E:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\ref\TestBackend.Api.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\appsettings.Development.json
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\appsettings.json
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.exe
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.deps.json
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.runtimeconfig.json
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Api.pdb
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Azure.Core.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Azure.Identity.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Humanizer.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.CodeDom.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Common.Models.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\TestBackend.Common.Models.pdb
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.AssemblyReference.cache
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.AssemblyInfoInputs.cache
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.AssemblyInfo.cs
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.CoreCompileInputs.cache
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.TestBackend.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.TestBackend.Api.props
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestBackend.Api.props
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestBackend.Api.props
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.build.json
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\staticwebassets.development.json
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\scopedcss\bundle\TestBackend.Api.styles.css
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.csproj.CopyComplete
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\refint\TestBackend.Api.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.pdb
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\TestBackend.Api.genruntimeconfig.cache
+F:\Программирование\Test_Backend\Test_Backend.Api\obj\Debug\net7.0\ref\TestBackend.Api.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\nlog.config
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\NLog.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+F:\Программирование\Test_Backend\Test_Backend.Api\bin\Debug\net7.0\NLog.Web.AspNetCore.dll
