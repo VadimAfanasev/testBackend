@@ -11,10 +11,23 @@ namespace TestBackend.ApiTests
 {
     internal class MockAppContext: ApplicationContext
     {
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseInMemoryDatabase("PersonControllerTest")
+        //        .ConfigureWarnings(b => b.Ignore(InMemoryEventId.TransactionIgnoredWarning));
+        //}
+
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseInMemoryDatabase("PersonControllerTest")
+        //        .ConfigureWarnings(b => b.Ignore(InMemoryEventId.TransactionIgnoredWarning));
+        //}
+
+        public MockAppContext(DbContextOptions<ApplicationContext> options)
+        : base(options => options.UseInMemoryDatabase("PersonControllerTest"))
         {
-            optionsBuilder.UseInMemoryDatabase("PersonControllerTest")
-                .ConfigureWarnings(b => b.Ignore(InMemoryEventId.TransactionIgnoredWarning));
+
         }
+
     }
 }

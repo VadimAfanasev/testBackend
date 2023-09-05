@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using NLog;
 using NLog.Web;
 using TestBackend.Api.Models.Data;
@@ -17,7 +18,12 @@ try
     builder.Host.UseNLog();
 
     builder.Services.AddControllers();
-    builder.Services.AddDbContext<ApplicationContext>();
+
+    string connection = builder.Configuration.GetConnectionString("DefaultConnection");
+    if (String.IsNullOrWhiteSpace(connection))
+        connection = "Server=(localdb)\\mssqllocaldb;Database=TestBackend2;Trusted_Connection=True;";
+    builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(connection));
+
     // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen();

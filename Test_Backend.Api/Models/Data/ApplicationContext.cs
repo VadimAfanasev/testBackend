@@ -4,13 +4,30 @@ namespace TestBackend.Api.Models.Data
 {
     public class ApplicationContext : DbContext
     {
+        //public DbSet<Person> Persons { get; set; }
+        //public DbSet<Skill> Skills { get; set; }
+
+        //public ApplicationContext() => Database.EnsureCreated();
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=TestBackend;Trusted_Connection=True;");
+        //}
+
         public DbSet<Person> Persons { get; set; }
         public DbSet<Skill> Skills { get; set; }
 
-        public ApplicationContext() => Database.EnsureCreated();
+        public ApplicationContext(DbContextOptions<ApplicationContext> options)
+        : base(options)
+        {
+            Database.EnsureCreated();
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=TestBackend;Trusted_Connection=True;");
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=TestBackend;Trusted_Connection=True;");
+            }
         }
     }
 }

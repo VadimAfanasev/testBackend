@@ -1,8 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using TestBackend.Api.Models;
+using TestBackend.Api.Models.Data;
 using TestBackend.ApiTests;
 using TestBackend.Common.Models;
 
@@ -15,8 +17,11 @@ namespace TestBackend.Api.Controllers.Tests
         public void CreatePersonTests()
         {
             // Arrange 
+            var options = new DbContextOptionsBuilder<ApplicationContext>()
+                            .UseInMemoryDatabase("PersonControllerTest")
+                            .Options;
             var loggerMock = new Mock<ILogger<PersonsController>>();
-            var dbMock = new MockAppContext();
+            var dbMock = new MockAppContext(options);
             var controller = new PersonsController(dbMock, loggerMock.Object);
 
             var personModel = new PersonModel
@@ -130,17 +135,36 @@ namespace TestBackend.Api.Controllers.Tests
 
         private static MockAppContext GetNewInitAppContext()
         {
-            var dbMock = new MockAppContext();
+            //var dbMock = new MockAppContext();
+
+            //dbMock.Add(new Person()
+            //{
+            //    Name = "TestGetAllPersons",
+            //    DisplayName = "TestGetAllPersons",
+            //    Skills = new List<Skill>
+            //        {
+            //            new Skill("TestGetAllPersons", 7),
+            //            new Skill("TestGetAllPersons", 7)
+            //        }
+            //});
+            //dbMock.SaveChanges();
+            //return dbMock;
+
+            var options = new DbContextOptionsBuilder<ApplicationContext>()
+                            .UseInMemoryDatabase("PersonControllerTest")
+                            .Options;
+
+            var dbMock = new MockAppContext(options);
 
             dbMock.Add(new Person()
             {
                 Name = "TestGetAllPersons",
                 DisplayName = "TestGetAllPersons",
                 Skills = new List<Skill>
-                    {
-                        new Skill("TestGetAllPersons", 7),
-                        new Skill("TestGetAllPersons", 7)
-                    }
+                {
+                    new Skill("TestGetAllPersons", 7),
+                    new Skill("TestGetAllPersons", 7)
+                }
             });
             dbMock.SaveChanges();
             return dbMock;
