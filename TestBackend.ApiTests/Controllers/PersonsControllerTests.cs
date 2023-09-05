@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.Extensions.Logging;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using TestBackend.Api.Models;
 using TestBackend.Api.Models.Data;
-using TestBackend.ApiTests;
 using TestBackend.Common.Models;
 
 namespace TestBackend.Api.Controllers.Tests
@@ -16,13 +16,10 @@ namespace TestBackend.Api.Controllers.Tests
         [TestMethod()]
         public void CreatePersonTests()
         {
-            // Arrange 
-            var options = new DbContextOptionsBuilder<ApplicationContext>()
-                            .UseInMemoryDatabase("PersonControllerTest")
-                            .Options;
+            // Arrange  
+            var appContext = GetTestApplicationContext();
             var loggerMock = new Mock<ILogger<PersonsController>>();
-            var dbMock = new MockAppContext(options);
-            var controller = new PersonsController(dbMock, loggerMock.Object);
+            var controller = new PersonsController(appContext, loggerMock.Object);
 
             var personModel = new PersonModel
             {
@@ -35,26 +32,27 @@ namespace TestBackend.Api.Controllers.Tests
                 }
             };
 
-            // Act 
+            // Act  
             var result = controller.CreatePerson(personModel);
 
-            // Assert 
+            // Assert  
             Xunit.Assert.NotNull(result);
             Xunit.Assert.IsType<OkResult>(result);
             Xunit.Assert.Equal(200, (result as OkResult)?.StatusCode);
         }
 
 
-        
+
         [TestMethod()]
         public void PutPersonTest()
         {
-            // Arrange            
-            var loggerMock = new Mock<ILogger<PersonsController>>();
-            MockAppContext dbMock = GetNewInitAppContext();
-            var controller = new PersonsController(dbMock, loggerMock.Object);
+            // Arrange             
 
-            var id = dbMock.Persons.FirstOrDefault()?.Id ?? 1;
+            var appContext = GetNewInitAppContext();
+            var loggerMock = new Mock<ILogger<PersonsController>>();
+            var controller = new PersonsController(appContext, loggerMock.Object);
+
+            var id = appContext.Persons.FirstOrDefault()?.Id ?? 1;
             var personModel = new PersonModel
             {
                 Id = id,
@@ -67,10 +65,10 @@ namespace TestBackend.Api.Controllers.Tests
                 }
             };
 
-            // Act
+            // Act 
             var result = controller.PutPerson(id, personModel);
 
-            // Assert 
+            // Assert  
             Xunit.Assert.NotNull(result);
             Xunit.Assert.IsType<OkResult>(result);
             Xunit.Assert.Equal(200, (result as OkResult)?.StatusCode);
@@ -80,17 +78,19 @@ namespace TestBackend.Api.Controllers.Tests
         [TestMethod()]
         public void DeletePersonTest()
         {
-            // Arrange
+            // Arrange 
+            var appContext = GetNewInitAppContext();
             var loggerMock = new Mock<ILogger<PersonsController>>();
-            MockAppContext dbMock = GetNewInitAppContext();
-            var controller = new PersonsController(dbMock, loggerMock.Object);
+            var controller = new PersonsController(appContext, loggerMock.Object);
 
-            var id = dbMock.Persons.FirstOrDefault()?.Id ?? 1;
+            GetNewInitAppContext();
 
-            // Act
+            var id = appContext.Persons.FirstOrDefault()?.Id ?? 1;
+
+            // Act 
             var result = controller.DeletePerson(id);
 
-            // Assert 
+            // Assert  
             Xunit.Assert.NotNull(result);
             Xunit.Assert.IsType<OkResult>(result);
             Xunit.Assert.Equal(200, (result as OkResult)?.StatusCode);
@@ -100,15 +100,16 @@ namespace TestBackend.Api.Controllers.Tests
         [TestMethod()]
         public void GetAllPersonsTest()
         {
-            // Arrange
+            // Arrange 
+            var appContext = GetNewInitAppContext();
             var loggerMock = new Mock<ILogger<PersonsController>>();
-            MockAppContext dbMock = GetNewInitAppContext();
-            var controller = new PersonsController(dbMock, loggerMock.Object);
+            var controller = new PersonsController(appContext, loggerMock.Object);
+            
 
-            // Act
+            // Act 
             var result = controller.GetAllPersons();
 
-            // Assert 
+            // Assert  
             Xunit.Assert.NotNull(result);
             Xunit.Assert.IsType<OkObjectResult>(result);
             Xunit.Assert.Equal(200, (result as OkObjectResult)?.StatusCode);
@@ -117,46 +118,28 @@ namespace TestBackend.Api.Controllers.Tests
         [TestMethod()]
         public void GetPersonTest()
         {
-            // Arrange           
+            // Arrange            
+            var appContext = GetTestApplicationContext();
             var loggerMock = new Mock<ILogger<PersonsController>>();
-            MockAppContext dbMock = GetNewInitAppContext();
-            var controller = new PersonsController(dbMock, loggerMock.Object);
+            var controller = new PersonsController(appContext, loggerMock.Object);
+            GetNewInitAppContext();
 
-            var id = dbMock.Persons.FirstOrDefault()?.Id ?? 1;
+            var id = appContext.Persons.FirstOrDefault()?.Id ?? 1;
 
-            // Act
+            // Act 
             var result = controller.GetPerson(id);
 
-            // Assert 
+            // Assert  
             Xunit.Assert.NotNull(result);
             Xunit.Assert.IsType<OkObjectResult>(result);
             Xunit.Assert.Equal(200, (result as OkObjectResult)?.StatusCode);
         }
 
-        private static MockAppContext GetNewInitAppContext()
+        private static ApplicationContext GetNewInitAppContext()
         {
-            //var dbMock = new MockAppContext();
+            var dbTest = GetTestApplicationContext();
 
-            //dbMock.Add(new Person()
-            //{
-            //    Name = "TestGetAllPersons",
-            //    DisplayName = "TestGetAllPersons",
-            //    Skills = new List<Skill>
-            //        {
-            //            new Skill("TestGetAllPersons", 7),
-            //            new Skill("TestGetAllPersons", 7)
-            //        }
-            //});
-            //dbMock.SaveChanges();
-            //return dbMock;
-
-            var options = new DbContextOptionsBuilder<ApplicationContext>()
-                            .UseInMemoryDatabase("PersonControllerTest")
-                            .Options;
-
-            var dbMock = new MockAppContext(options);
-
-            dbMock.Add(new Person()
+            dbTest.Add(new Person()
             {
                 Name = "TestGetAllPersons",
                 DisplayName = "TestGetAllPersons",
@@ -166,8 +149,18 @@ namespace TestBackend.Api.Controllers.Tests
                     new Skill("TestGetAllPersons", 7)
                 }
             });
-            dbMock.SaveChanges();
-            return dbMock;
+            dbTest.SaveChanges();
+            return dbTest;
         }
+
+        private static ApplicationContext GetTestApplicationContext()
+        {
+            var contextOptions = new DbContextOptionsBuilder<ApplicationContext>()
+                    .UseInMemoryDatabase("PersonControllerTest")
+                    .ConfigureWarnings(b => b.Ignore(InMemoryEventId.TransactionIgnoredWarning))
+                    .Options;
+            return new ApplicationContext(contextOptions);
+        }
+
     }
 }

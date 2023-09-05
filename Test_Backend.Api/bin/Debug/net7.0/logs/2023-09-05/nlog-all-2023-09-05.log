@@ -267,3 +267,1123 @@ ORDER BY [p].[Id]
 2023-09-05 12:24:42.6582|1000|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/v1/swagger.json' 
 2023-09-05 12:24:42.6582|2|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
 2023-09-05 12:24:42.8537|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:42486/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 195.4823ms 
+2023-09-05 14:31:13.9592|0|DEBUG|Program|init main 
+2023-09-05 14:31:17.5858|12|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2023-09-05 14:31:18.6271|1|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting 
+2023-09-05 14:31:19.1979|13|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly TestBackend.Api 
+2023-09-05 14:31:19.1979|13|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2023-09-05 14:31:19.1979|13|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2023-09-05 14:31:19.1979|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-09-05 14:31:19.1979|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-09-05 14:31:19.1979|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\Программирование\Test_Backend\Test_Backend.Api 
+2023-09-05 14:31:19.1979|2|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started 
+2023-09-05 14:31:19.4622|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:42486/swagger/index.html - - 
+2023-09-05 14:31:19.5938|0|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2023-09-05 14:31:19.5938|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-09-05 14:31:19.7356|1000|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/index.html' 
+2023-09-05 14:31:19.7375|2|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2023-09-05 14:31:20.6829|1|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2023-09-05 14:31:22.3608|2|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2023-09-05 14:31:22.4418|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:42486/_framework/aspnetcore-browser-refresh.js - - 
+2023-09-05 14:31:22.4601|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:42486/swagger/index.html - - - 200 - text/html;charset=utf-8 2984.7323ms 
+2023-09-05 14:31:22.4601|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:42486/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 19.0893ms 
+2023-09-05 14:31:22.5428|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:42486/_vs/browserLink - - 
+2023-09-05 14:31:23.5187|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:42486/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 975.8370ms 
+2023-09-05 14:31:23.5985|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:42486/swagger/v1/swagger.json - - 
+2023-09-05 14:31:23.5985|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-09-05 14:31:23.5985|1000|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/v1/swagger.json' 
+2023-09-05 14:31:23.5985|2|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2023-09-05 14:31:23.9383|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:42486/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 339.6191ms 
+2023-09-05 14:31:28.1466|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:42486/api/v1/Persons - - 
+2023-09-05 14:31:28.1466|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-09-05 14:31:28.1630|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/v1/Persons' 
+2023-09-05 14:31:28.1957|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api)' with route pattern 'api/v1/Persons' is valid for the request path '/api/v1/Persons' 
+2023-09-05 14:31:28.1957|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api)' 
+2023-09-05 14:31:28.2239|15|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint. 
+2023-09-05 14:31:28.2858|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api)' 
+2023-09-05 14:31:28.4728|102|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "GetAllPersons", controller = "Persons"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllPersons() on controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api). 
+2023-09-05 14:31:28.4728|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2023-09-05 14:31:28.4728|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None 
+2023-09-05 14:31:28.4728|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) 
+2023-09-05 14:31:28.4728|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-09-05 14:31:28.4728|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) 
+2023-09-05 14:31:28.4911|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:31:30.1091|10401|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|An 'IServiceProvider' was created for internal use by Entity Framework. 
+2023-09-05 14:31:31.4589|10403|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 7.0.10 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.10' with options: None 
+2023-09-05 14:31:35.2149|20005|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2023-09-05 14:31:35.3722|20006|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (166ms). 
+2023-09-05 14:31:35.3771|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:52.3943|20004|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|An error occurred using the connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:52.8382|20005|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2023-09-05 14:31:52.8382|20006|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (0ms). 
+2023-09-05 14:31:52.8382|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'master' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:52.8866|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'master' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:52.8866|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteNonQuery'. 
+2023-09-05 14:31:52.9037|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteNonQuery' (8ms). 
+2023-09-05 14:31:52.9037|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteNonQuery' (15ms). 
+2023-09-05 14:31:52.9198|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='60']
+CREATE DATABASE [TestBackend2]; 
+2023-09-05 14:31:54.0678|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1,126ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+CREATE DATABASE [TestBackend2]; 
+2023-09-05 14:31:54.0678|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteNonQuery'. 
+2023-09-05 14:31:54.0678|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:31:54.0678|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:31:54.0678|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [TestBackend2] SET READ_COMMITTED_SNAPSHOT ON;
+END; 
+2023-09-05 14:31:54.7739|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (703ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [TestBackend2] SET READ_COMMITTED_SNAPSHOT ON;
+END; 
+2023-09-05 14:31:54.7739|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'master' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:54.7916|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'master' on server '(localdb)\mssqllocaldb' (10ms). 
+2023-09-05 14:31:54.8099|20007|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'master' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:54.8099|20008|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (1ms). 
+2023-09-05 14:31:54.8099|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:54.8379|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:54.8379|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteNonQuery'. 
+2023-09-05 14:31:54.8379|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:31:54.8379|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:31:54.8379|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:31:54.8855|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (47ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:31:54.8855|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:54.8855|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:31:54.9933|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:54.9933|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:54.9933|20209|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Beginning transaction with isolation level 'Unspecified'. 
+2023-09-05 14:31:55.0042|20200|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Began transaction with isolation level 'ReadCommitted'. 
+2023-09-05 14:31:55.0042|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteNonQuery'. 
+2023-09-05 14:31:55.0042|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:31:55.0042|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteNonQuery' (1ms). 
+2023-09-05 14:31:55.0042|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Persons] (
+    [Id] bigint NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [DisplayName] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Persons] PRIMARY KEY ([Id])
+); 
+2023-09-05 14:31:55.0333|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (27ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Persons] (
+    [Id] bigint NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [DisplayName] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Persons] PRIMARY KEY ([Id])
+); 
+2023-09-05 14:31:55.0333|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteNonQuery'. 
+2023-09-05 14:31:55.0333|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:31:55.0333|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:31:55.0333|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Skills] (
+    [Id] bigint NOT NULL IDENTITY,
+    [PersonId] bigint NOT NULL,
+    [Name] nvarchar(max) NOT NULL,
+    [Level] tinyint NOT NULL,
+    CONSTRAINT [PK_Skills] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Skills_Persons_PersonId] FOREIGN KEY ([PersonId]) REFERENCES [Persons] ([Id]) ON DELETE CASCADE
+); 
+2023-09-05 14:31:55.0333|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (10ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Skills] (
+    [Id] bigint NOT NULL IDENTITY,
+    [PersonId] bigint NOT NULL,
+    [Name] nvarchar(max) NOT NULL,
+    [Level] tinyint NOT NULL,
+    CONSTRAINT [PK_Skills] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Skills_Persons_PersonId] FOREIGN KEY ([PersonId]) REFERENCES [Persons] ([Id]) ON DELETE CASCADE
+); 
+2023-09-05 14:31:55.0333|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteNonQuery'. 
+2023-09-05 14:31:55.0333|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:31:55.0333|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:31:55.0333|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_Skills_PersonId] ON [Skills] ([PersonId]); 
+2023-09-05 14:31:55.0489|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_Skills_PersonId] ON [Skills] ([PersonId]); 
+2023-09-05 14:31:55.0489|20210|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Committing transaction. 
+2023-09-05 14:31:55.0489|20202|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Committed transaction. 
+2023-09-05 14:31:55.0489|20204|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Disposing transaction. 
+2023-09-05 14:31:55.0489|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:55.0637|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:31:55.0637|0|DEBUG|TestBackend.Api.Controllers.PersonsController|NLog injected into TestBackend 
+2023-09-05 14:31:55.1013|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:31:55.1013|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:31:55.1136|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:31:55.1136|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:31:55.1136|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:31:55.1273|101|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api) - Validation state: Valid 
+2023-09-05 14:31:55.1905|10111|DEBUG|Microsoft.EntityFrameworkCore.Query|Compiling query expression: 
+'DbSet<Person>()
+    .Include(p => p.Skills)' 
+2023-09-05 14:31:55.3093|10112|DEBUG|Microsoft.EntityFrameworkCore.Query|Including navigation: 'Person.Skills'. 
+2023-09-05 14:31:55.7745|10107|DEBUG|Microsoft.EntityFrameworkCore.Query|Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<Person>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Client Projections:
+            0 -> Dictionary<IProperty, int> { [Property: Person.Id (long) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Person.DisplayName (string) Required, 1], [Property: Person.Name (string) Required, 2] }
+            1 -> 0
+            2 -> Dictionary<IProperty, int> { [Property: Skill.Id (long) Required PK AfterSave:Throw ValueGenerated.OnAdd, 3], [Property: Skill.Level (byte) Required, 4], [Property: Skill.Name (string) Required, 5], [Property: Skill.PersonId (long) Required FK Index, 6] }
+            3 -> 3
+        SELECT p.Id, p.DisplayName, p.Name, s.Id, s.Level, s.Name, s.PersonId
+        FROM Persons AS p
+        LEFT JOIN Skills AS s ON p.Id == s.PersonId
+        ORDER BY p.Id ASC), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Person>, 
+    TestBackend.Api.Models.Data.ApplicationContext, 
+    False, 
+    False, 
+    True
+)' 
+2023-09-05 14:31:55.8058|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'. 
+2023-09-05 14:31:55.8058|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:31:55.8058|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:31:55.8058|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:55.8058|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:55.8058|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[DisplayName], [p].[Name], [s].[Id], [s].[Level], [s].[Name], [s].[PersonId]
+FROM [Persons] AS [p]
+LEFT JOIN [Skills] AS [s] ON [p].[Id] = [s].[PersonId]
+ORDER BY [p].[Id] 
+2023-09-05 14:31:55.8192|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (12ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[DisplayName], [p].[Name], [s].[Id], [s].[Level], [s].[Name], [s].[PersonId]
+FROM [Persons] AS [p]
+LEFT JOIN [Skills] AS [s] ON [p].[Id] = [s].[PersonId]
+ORDER BY [p].[Id] 
+2023-09-05 14:31:55.8192|20301|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:55.8192|20300|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'TestBackend2' on server '(localdb)\mssqllocaldb' is being disposed after spending 7ms reading results. 
+2023-09-05 14:31:55.8192|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:55.8192|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:31:55.8296|0|INFO|TestBackend.Api.Controllers.PersonsController|Cущность не найдена в системе 
+2023-09-05 14:31:55.8296|103|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api), returned result Microsoft.AspNetCore.Mvc.NotFoundResult in 702.3695ms. 
+2023-09-05 14:31:55.8296|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:31:55.8296|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:31:55.8296|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:31:55.8296|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:31:55.8296|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:31:55.8296|49|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter|Replacing Microsoft.AspNetCore.Mvc.NotFoundResult with status code 404 with Microsoft.AspNetCore.Mvc.ObjectResult. 
+2023-09-05 14:31:55.8296|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:31:55.8296|5|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult. 
+2023-09-05 14:31:55.8460|11|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter 
+2023-09-05 14:31:55.8460|4|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|No information found on request to perform content negotiation. 
+2023-09-05 14:31:55.8460|9|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first output formatter in the output formatters list which supports a content type from the explicitly specified content types 'application/problem+json, application/problem+xml, application/problem+json, application/problem+xml'. 
+2023-09-05 14:31:55.8460|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/problem+json' to write the response. 
+2023-09-05 14:31:55.8759|1|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'. 
+2023-09-05 14:31:55.9540|6|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ObjectResult. 
+2023-09-05 14:31:55.9540|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:31:55.9540|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:31:55.9578|105|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api) in 27470.523ms 
+2023-09-05 14:31:55.9578|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api)' 
+2023-09-05 14:31:55.9578|10407|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'ApplicationContext' disposed. 
+2023-09-05 14:31:55.9578|20007|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:31:55.9578|20008|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (1ms). 
+2023-09-05 14:31:55.9702|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:42486/api/v1/Persons - - - 404 - application/problem+json;+charset=utf-8 27823.6499ms 
+2023-09-05 14:32:11.9541|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:42486/api/v1/Persons application/json 159 
+2023-09-05 14:32:11.9541|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-09-05 14:32:11.9541|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/v1/Persons' 
+2023-09-05 14:32:11.9541|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'TestBackend.Api.Controllers.PersonsController.CreatePerson (TestBackend.Api)' with route pattern 'api/v1/Persons' is valid for the request path '/api/v1/Persons' 
+2023-09-05 14:32:11.9553|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'TestBackend.Api.Controllers.PersonsController.CreatePerson (TestBackend.Api)' 
+2023-09-05 14:32:11.9553|15|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint. 
+2023-09-05 14:32:11.9553|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'TestBackend.Api.Controllers.PersonsController.CreatePerson (TestBackend.Api)' 
+2023-09-05 14:32:11.9553|102|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "CreatePerson", controller = "Persons"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreatePerson(TestBackend.Common.Models.PersonModel) on controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api). 
+2023-09-05 14:32:11.9553|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2023-09-05 14:32:11.9553|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None 
+2023-09-05 14:32:11.9553|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) 
+2023-09-05 14:32:11.9553|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-09-05 14:32:11.9553|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) 
+2023-09-05 14:32:11.9553|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:32:12.0031|10403|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 7.0.10 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.10' with options: None 
+2023-09-05 14:32:12.0031|20005|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2023-09-05 14:32:12.0031|20006|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (0ms). 
+2023-09-05 14:32:12.0031|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:12.0031|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:12.0031|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteNonQuery'. 
+2023-09-05 14:32:12.0031|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:32:12.0031|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:32:12.0031|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:32:12.0031|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:32:12.0031|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:12.0031|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:32:12.0229|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteScalar'. 
+2023-09-05 14:32:12.0229|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteScalar' (0ms). 
+2023-09-05 14:32:12.0229|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteScalar' (0ms). 
+2023-09-05 14:32:12.0229|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:12.0229|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:12.0229|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0 
+2023-09-05 14:32:12.6855|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (661ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0 
+2023-09-05 14:32:12.6855|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:12.6855|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:32:12.6855|0|DEBUG|TestBackend.Api.Controllers.PersonsController|NLog injected into TestBackend 
+2023-09-05 14:32:12.6855|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:32:12.7280|22|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel' ... 
+2023-09-05 14:32:12.7280|44|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder|Attempting to bind parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel' using the name '' in request data ... 
+2023-09-05 14:32:12.7388|1|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder|Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'. 
+2023-09-05 14:32:12.8180|2|DEBUG|Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter|JSON input formatter succeeded, deserializing to type 'TestBackend.Common.Models.PersonModel' 
+2023-09-05 14:32:12.8180|45|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder|Done attempting to bind parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel'. 
+2023-09-05 14:32:12.8180|23|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel'. 
+2023-09-05 14:32:12.8180|26|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel' ... 
+2023-09-05 14:32:12.8859|27|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel'. 
+2023-09-05 14:32:12.8859|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:12.8859|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:12.8859|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:12.8859|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:12.8859|101|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method TestBackend.Api.Controllers.PersonsController.CreatePerson (TestBackend.Api) - Validation state: Valid 
+2023-09-05 14:32:12.8859|102|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method TestBackend.Api.Controllers.PersonsController.CreatePerson (TestBackend.Api) with arguments (TestBackend.Common.Models.PersonModel) 
+2023-09-05 14:32:12.9449|10808|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|'"ApplicationContext"' generated a temporary value for the property '"Id"."Person"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:32:13.0731|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Person' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:32:13.0731|10808|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|'"ApplicationContext"' generated a temporary value for the property '"Id"."Skill"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:32:13.0974|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Skill' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:32:13.0974|10004|DEBUG|Microsoft.EntityFrameworkCore.Update|SaveChanges starting for 'ApplicationContext'. 
+2023-09-05 14:32:13.0974|10800|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|DetectChanges starting for 'ApplicationContext'. 
+2023-09-05 14:32:13.1148|10801|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|DetectChanges completed for 'ApplicationContext'. 
+2023-09-05 14:32:13.2071|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:13.2071|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:13.2071|20209|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Beginning transaction with isolation level 'Unspecified'. 
+2023-09-05 14:32:13.2071|20200|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Began transaction with isolation level 'ReadCommitted'. 
+2023-09-05 14:32:13.2071|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'. 
+2023-09-05 14:32:13.2071|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:32:13.2071|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (5ms). 
+2023-09-05 14:32:13.2306|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Persons] ([DisplayName], [Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1); 
+2023-09-05 14:32:13.4295|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (215ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Persons] ([DisplayName], [Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1); 
+2023-09-05 14:32:13.4507|10803|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|The foreign key property 'Person.Id' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values. 
+2023-09-05 14:32:13.4599|10803|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|The foreign key property 'Skill.PersonId' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values. 
+2023-09-05 14:32:13.4599|20301|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:13.4599|20300|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'TestBackend2' on server '(localdb)\mssqllocaldb' is being disposed after spending 34ms reading results. 
+2023-09-05 14:32:13.4599|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'. 
+2023-09-05 14:32:13.4599|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:32:13.4599|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:32:13.4599|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[@p2='?' (Size = 1) (DbType = Byte), @p3='?' (Size = 4000), @p4='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Skills] ([Level], [Name], [PersonId])
+OUTPUT INSERTED.[Id]
+VALUES (@p2, @p3, @p4); 
+2023-09-05 14:32:13.4599|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[@p2='?' (Size = 1) (DbType = Byte), @p3='?' (Size = 4000), @p4='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Skills] ([Level], [Name], [PersonId])
+OUTPUT INSERTED.[Id]
+VALUES (@p2, @p3, @p4); 
+2023-09-05 14:32:13.4599|10803|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|The foreign key property 'Skill.Id' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values. 
+2023-09-05 14:32:13.4708|20301|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:13.4708|20300|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'TestBackend2' on server '(localdb)\mssqllocaldb' is being disposed after spending 2ms reading results. 
+2023-09-05 14:32:13.4708|20210|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Committing transaction. 
+2023-09-05 14:32:13.4869|20202|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Committed transaction. 
+2023-09-05 14:32:13.4869|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:13.4869|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:32:13.4869|20204|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Disposing transaction. 
+2023-09-05 14:32:13.4869|10807|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|An entity of type 'Person' tracked by 'ApplicationContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:32:13.4869|10807|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|An entity of type 'Skill' tracked by 'ApplicationContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:32:13.4869|10005|DEBUG|Microsoft.EntityFrameworkCore.Update|SaveChanges completed for 'ApplicationContext' with 2 entities written to the database. 
+2023-09-05 14:32:13.4869|103|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method TestBackend.Api.Controllers.PersonsController.CreatePerson (TestBackend.Api), returned result Microsoft.AspNetCore.Mvc.OkResult in 609.889ms. 
+2023-09-05 14:32:13.4869|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:13.4869|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:13.4869|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:13.4869|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:13.4869|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:13.4869|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:13.4869|5|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.OkResult. 
+2023-09-05 14:32:13.5378|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing StatusCodeResult, setting HTTP status code 200 
+2023-09-05 14:32:13.5378|6|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.OkResult. 
+2023-09-05 14:32:13.5378|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:13.5378|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:13.5378|105|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action TestBackend.Api.Controllers.PersonsController.CreatePerson (TestBackend.Api) in 1568.6798ms 
+2023-09-05 14:32:13.5378|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'TestBackend.Api.Controllers.PersonsController.CreatePerson (TestBackend.Api)' 
+2023-09-05 14:32:13.5378|10407|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'ApplicationContext' disposed. 
+2023-09-05 14:32:13.5378|20007|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:13.5378|20008|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (0ms). 
+2023-09-05 14:32:13.5378|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:42486/api/v1/Persons application/json 159 - 200 - - 1586.0096ms 
+2023-09-05 14:32:18.2170|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:42486/api/v1/Persons - - 
+2023-09-05 14:32:18.2170|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-09-05 14:32:18.2170|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/v1/Persons' 
+2023-09-05 14:32:18.2170|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api)' with route pattern 'api/v1/Persons' is valid for the request path '/api/v1/Persons' 
+2023-09-05 14:32:18.2170|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api)' 
+2023-09-05 14:32:18.2170|15|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint. 
+2023-09-05 14:32:18.2170|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api)' 
+2023-09-05 14:32:18.2170|102|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "GetAllPersons", controller = "Persons"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllPersons() on controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api). 
+2023-09-05 14:32:18.2170|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2023-09-05 14:32:18.2170|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None 
+2023-09-05 14:32:18.2170|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) 
+2023-09-05 14:32:18.2170|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-09-05 14:32:18.2170|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) 
+2023-09-05 14:32:18.2170|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:32:18.3399|10403|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 7.0.10 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.10' with options: None 
+2023-09-05 14:32:18.3667|20005|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2023-09-05 14:32:18.3667|20006|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (0ms). 
+2023-09-05 14:32:18.3667|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:18.3667|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:18.3667|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteNonQuery'. 
+2023-09-05 14:32:18.3667|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:32:18.3667|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:32:18.3667|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:32:18.3667|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:32:18.3667|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:18.3667|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:32:18.3667|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteScalar'. 
+2023-09-05 14:32:18.3667|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteScalar' (0ms). 
+2023-09-05 14:32:18.3667|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteScalar' (0ms). 
+2023-09-05 14:32:18.3667|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:18.3667|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:18.3667|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0 
+2023-09-05 14:32:18.4023|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (32ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0 
+2023-09-05 14:32:18.4023|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:18.4023|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:32:18.4023|0|DEBUG|TestBackend.Api.Controllers.PersonsController|NLog injected into TestBackend 
+2023-09-05 14:32:18.4023|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:32:18.4023|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:18.4023|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:18.4023|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:18.4023|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:18.4023|101|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api) - Validation state: Valid 
+2023-09-05 14:32:18.4095|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'. 
+2023-09-05 14:32:18.4095|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:32:18.4095|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:32:18.4095|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:18.4095|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:18.4095|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[DisplayName], [p].[Name], [s].[Id], [s].[Level], [s].[Name], [s].[PersonId]
+FROM [Persons] AS [p]
+LEFT JOIN [Skills] AS [s] ON [p].[Id] = [s].[PersonId]
+ORDER BY [p].[Id] 
+2023-09-05 14:32:18.5137|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (104ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[DisplayName], [p].[Name], [s].[Id], [s].[Level], [s].[Name], [s].[PersonId]
+FROM [Persons] AS [p]
+LEFT JOIN [Skills] AS [s] ON [p].[Id] = [s].[PersonId]
+ORDER BY [p].[Id] 
+2023-09-05 14:32:18.5247|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Person' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:32:18.5407|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Skill' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:32:18.5407|20301|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:18.5407|20300|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'TestBackend2' on server '(localdb)\mssqllocaldb' is being disposed after spending 29ms reading results. 
+2023-09-05 14:32:18.5407|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:18.5407|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:32:18.5486|103|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 145.2566ms. 
+2023-09-05 14:32:18.5486|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:18.5486|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:18.5486|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:18.5486|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:18.5486|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:18.5486|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:18.5486|5|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.OkObjectResult. 
+2023-09-05 14:32:18.5486|11|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter 
+2023-09-05 14:32:18.5486|4|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|No information found on request to perform content negotiation. 
+2023-09-05 14:32:18.5486|8|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response. 
+2023-09-05 14:32:18.5486|10|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result. 
+2023-09-05 14:32:18.5486|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response. 
+2023-09-05 14:32:18.5486|1|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TestBackend.Common.Models.PersonModel, TestBackend.Common.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'. 
+2023-09-05 14:32:18.5750|6|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.OkObjectResult. 
+2023-09-05 14:32:18.5750|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:18.5750|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:18.5750|105|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api) in 356.9931ms 
+2023-09-05 14:32:18.5750|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api)' 
+2023-09-05 14:32:18.5750|10407|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'ApplicationContext' disposed. 
+2023-09-05 14:32:18.5750|20007|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:18.5750|20008|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (0ms). 
+2023-09-05 14:32:18.5750|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:42486/api/v1/Persons - - - 200 - application/json;+charset=utf-8 360.7920ms 
+2023-09-05 14:32:32.1372|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:42486/api/v1/Persons/1 - - 
+2023-09-05 14:32:32.1372|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-09-05 14:32:32.1372|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/v1/Persons/1' 
+2023-09-05 14:32:32.1372|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'TestBackend.Api.Controllers.PersonsController.GetPerson (TestBackend.Api)' with route pattern 'api/v1/Persons/{id}' is valid for the request path '/api/v1/Persons/1' 
+2023-09-05 14:32:32.1372|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'TestBackend.Api.Controllers.PersonsController.GetPerson (TestBackend.Api)' 
+2023-09-05 14:32:32.1372|15|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint. 
+2023-09-05 14:32:32.1372|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'TestBackend.Api.Controllers.PersonsController.GetPerson (TestBackend.Api)' 
+2023-09-05 14:32:32.1565|102|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "GetPerson", controller = "Persons"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetPerson(Int64) on controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api). 
+2023-09-05 14:32:32.1565|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2023-09-05 14:32:32.1565|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None 
+2023-09-05 14:32:32.1565|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) 
+2023-09-05 14:32:32.1565|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-09-05 14:32:32.1565|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) 
+2023-09-05 14:32:32.1565|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:32:32.1623|10403|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 7.0.10 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.10' with options: None 
+2023-09-05 14:32:32.1623|20005|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2023-09-05 14:32:32.1623|20006|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (0ms). 
+2023-09-05 14:32:32.1623|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:32.1623|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:32.1623|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteNonQuery'. 
+2023-09-05 14:32:32.1623|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:32:32.1623|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:32:32.1623|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:32:32.1623|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:32:32.1623|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:32.1623|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:32:32.1623|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteScalar'. 
+2023-09-05 14:32:32.1623|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteScalar' (0ms). 
+2023-09-05 14:32:32.1623|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteScalar' (0ms). 
+2023-09-05 14:32:32.1623|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:32.1623|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:32.1623|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0 
+2023-09-05 14:32:32.1996|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (32ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0 
+2023-09-05 14:32:32.1996|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:32.1996|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:32:32.1996|0|DEBUG|TestBackend.Api.Controllers.PersonsController|NLog injected into TestBackend 
+2023-09-05 14:32:32.1996|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:32:32.1996|22|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'id' of type 'System.Int64' ... 
+2023-09-05 14:32:32.1996|44|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'id' of type 'System.Int64' using the name 'id' in request data ... 
+2023-09-05 14:32:32.1996|45|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'id' of type 'System.Int64'. 
+2023-09-05 14:32:32.1996|23|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'id' of type 'System.Int64'. 
+2023-09-05 14:32:32.1996|26|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'id' of type 'System.Int64' ... 
+2023-09-05 14:32:32.1996|27|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'id' of type 'System.Int64'. 
+2023-09-05 14:32:32.1996|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:32.1996|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:32.1996|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:32.1996|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:32.1996|101|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method TestBackend.Api.Controllers.PersonsController.GetPerson (TestBackend.Api) - Validation state: Valid 
+2023-09-05 14:32:32.1996|102|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method TestBackend.Api.Controllers.PersonsController.GetPerson (TestBackend.Api) with arguments (1) 
+2023-09-05 14:32:32.2286|10111|DEBUG|Microsoft.EntityFrameworkCore.Query|Compiling query expression: 
+'DbSet<Person>()
+    .Where(p => p.Id == __id_0)
+    .Include(p => p.Skills)
+    .Select(p => p.ToDto())' 
+2023-09-05 14:32:32.2286|10112|DEBUG|Microsoft.EntityFrameworkCore.Query|Including navigation: 'Person.Skills'. 
+2023-09-05 14:32:32.2525|10107|DEBUG|Microsoft.EntityFrameworkCore.Query|Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<PersonModel>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Client Projections:
+            0 -> Dictionary<IProperty, int> { [Property: Person.Id (long) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Person.DisplayName (string) Required, 1], [Property: Person.Name (string) Required, 2] }
+            1 -> 0
+            2 -> Dictionary<IProperty, int> { [Property: Skill.Id (long) Required PK AfterSave:Throw ValueGenerated.OnAdd, 3], [Property: Skill.Level (byte) Required, 4], [Property: Skill.Name (string) Required, 5], [Property: Skill.PersonId (long) Required FK Index, 6] }
+            3 -> 3
+        SELECT p.Id, p.DisplayName, p.Name, s.Id, s.Level, s.Name, s.PersonId
+        FROM Persons AS p
+        LEFT JOIN Skills AS s ON p.Id == s.PersonId
+        WHERE p.Id == @__id_0
+        ORDER BY p.Id ASC), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, PersonModel>, 
+    TestBackend.Api.Models.Data.ApplicationContext, 
+    False, 
+    False, 
+    True
+)' 
+2023-09-05 14:32:32.2525|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'. 
+2023-09-05 14:32:32.2525|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:32:32.2525|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:32:32.2525|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:32.2525|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:32.2525|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[@__id_0='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[DisplayName], [p].[Name], [s].[Id], [s].[Level], [s].[Name], [s].[PersonId]
+FROM [Persons] AS [p]
+LEFT JOIN [Skills] AS [s] ON [p].[Id] = [s].[PersonId]
+WHERE [p].[Id] = @__id_0
+ORDER BY [p].[Id] 
+2023-09-05 14:32:32.2525|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[@__id_0='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[DisplayName], [p].[Name], [s].[Id], [s].[Level], [s].[Name], [s].[PersonId]
+FROM [Persons] AS [p]
+LEFT JOIN [Skills] AS [s] ON [p].[Id] = [s].[PersonId]
+WHERE [p].[Id] = @__id_0
+ORDER BY [p].[Id] 
+2023-09-05 14:32:32.2525|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Person' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:32:32.2525|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Skill' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:32:32.2525|20301|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:32.2525|20300|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'TestBackend2' on server '(localdb)\mssqllocaldb' is being disposed after spending 1ms reading results. 
+2023-09-05 14:32:32.2525|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:32.2525|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:32:32.2525|103|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method TestBackend.Api.Controllers.PersonsController.GetPerson (TestBackend.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 59.4972ms. 
+2023-09-05 14:32:32.2525|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:32.2525|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:32.2525|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:32.2525|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:32.2525|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:32.2525|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:32.2525|5|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.OkObjectResult. 
+2023-09-05 14:32:32.2525|11|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter 
+2023-09-05 14:32:32.2525|4|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|No information found on request to perform content negotiation. 
+2023-09-05 14:32:32.2525|8|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response. 
+2023-09-05 14:32:32.2525|10|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result. 
+2023-09-05 14:32:32.2525|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response. 
+2023-09-05 14:32:32.2525|1|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TestBackend.Common.Models.PersonModel, TestBackend.Common.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'. 
+2023-09-05 14:32:32.2525|6|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.OkObjectResult. 
+2023-09-05 14:32:32.2525|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:32.2525|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:32.2525|105|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action TestBackend.Api.Controllers.PersonsController.GetPerson (TestBackend.Api) in 105.7845ms 
+2023-09-05 14:32:32.2525|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'TestBackend.Api.Controllers.PersonsController.GetPerson (TestBackend.Api)' 
+2023-09-05 14:32:32.2525|10407|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'ApplicationContext' disposed. 
+2023-09-05 14:32:32.2525|20007|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:32.2525|20008|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (0ms). 
+2023-09-05 14:32:32.2525|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:42486/api/v1/Persons/1 - - - 200 - application/json;+charset=utf-8 126.9197ms 
+2023-09-05 14:32:53.6890|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 PUT http://localhost:42486/api/v1/Persons/1 application/json 168 
+2023-09-05 14:32:53.6890|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-09-05 14:32:53.6890|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/v1/Persons/1' 
+2023-09-05 14:32:53.6890|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api)' with route pattern 'api/v1/Persons/{id}' is valid for the request path '/api/v1/Persons/1' 
+2023-09-05 14:32:53.6890|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api)' 
+2023-09-05 14:32:53.6890|15|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint. 
+2023-09-05 14:32:53.6890|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api)' 
+2023-09-05 14:32:53.6890|102|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "PutPerson", controller = "Persons"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutPerson(Int64, TestBackend.Common.Models.PersonModel) on controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api). 
+2023-09-05 14:32:53.6890|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2023-09-05 14:32:53.6890|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None 
+2023-09-05 14:32:53.6890|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) 
+2023-09-05 14:32:53.6890|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-09-05 14:32:53.6890|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) 
+2023-09-05 14:32:53.6890|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:32:53.6890|10403|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 7.0.10 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.10' with options: None 
+2023-09-05 14:32:53.6890|20005|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2023-09-05 14:32:53.6890|20006|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (0ms). 
+2023-09-05 14:32:53.6890|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:53.6890|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:53.6890|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteNonQuery'. 
+2023-09-05 14:32:53.6890|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:32:53.6890|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:32:53.6890|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:32:53.7050|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:32:53.7050|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:53.7050|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:32:53.7050|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteScalar'. 
+2023-09-05 14:32:53.7050|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteScalar' (0ms). 
+2023-09-05 14:32:53.7050|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteScalar' (0ms). 
+2023-09-05 14:32:53.7050|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:53.7050|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:53.7050|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0 
+2023-09-05 14:32:53.7471|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (42ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0 
+2023-09-05 14:32:53.7471|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:53.7471|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:32:53.7471|0|DEBUG|TestBackend.Api.Controllers.PersonsController|NLog injected into TestBackend 
+2023-09-05 14:32:53.7471|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:32:53.7471|22|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'id' of type 'System.Int64' ... 
+2023-09-05 14:32:53.7471|44|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'id' of type 'System.Int64' using the name 'id' in request data ... 
+2023-09-05 14:32:53.7471|45|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'id' of type 'System.Int64'. 
+2023-09-05 14:32:53.7471|23|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'id' of type 'System.Int64'. 
+2023-09-05 14:32:53.7471|26|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'id' of type 'System.Int64' ... 
+2023-09-05 14:32:53.7471|27|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'id' of type 'System.Int64'. 
+2023-09-05 14:32:53.7471|22|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel' ... 
+2023-09-05 14:32:53.7522|44|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder|Attempting to bind parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel' using the name '' in request data ... 
+2023-09-05 14:32:53.7522|1|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder|Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'. 
+2023-09-05 14:32:53.7522|2|DEBUG|Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter|JSON input formatter succeeded, deserializing to type 'TestBackend.Common.Models.PersonModel' 
+2023-09-05 14:32:53.7522|45|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder|Done attempting to bind parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel'. 
+2023-09-05 14:32:53.7522|23|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel'. 
+2023-09-05 14:32:53.7522|26|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel' ... 
+2023-09-05 14:32:53.7522|27|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel'. 
+2023-09-05 14:32:53.7522|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:53.7522|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:53.7522|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:53.7522|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:53.7522|101|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api) - Validation state: Valid 
+2023-09-05 14:32:53.7522|102|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api) with arguments (1, TestBackend.Common.Models.PersonModel) 
+2023-09-05 14:32:53.7522|10111|DEBUG|Microsoft.EntityFrameworkCore.Query|Compiling query expression: 
+'DbSet<Person>()
+    .Include(p => p.Skills)
+    .FirstOrDefault(x => x.Id == __id_0)' 
+2023-09-05 14:32:53.7522|10112|DEBUG|Microsoft.EntityFrameworkCore.Query|Including navigation: 'Person.Skills'. 
+2023-09-05 14:32:53.7899|10107|DEBUG|Microsoft.EntityFrameworkCore.Query|Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<Person>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Client Projections:
+            0 -> Dictionary<IProperty, int> { [Property: Person.Id (long) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Person.DisplayName (string) Required, 1], [Property: Person.Name (string) Required, 2] }
+            1 -> 0
+            2 -> Dictionary<IProperty, int> { [Property: Skill.Id (long) Required PK AfterSave:Throw ValueGenerated.OnAdd, 3], [Property: Skill.Level (byte) Required, 4], [Property: Skill.Name (string) Required, 5], [Property: Skill.PersonId (long) Required FK Index, 6] }
+            3 -> 3
+        SELECT t.Id, t.DisplayName, t.Name, s.Id, s.Level, s.Name, s.PersonId
+        FROM 
+        (
+            SELECT TOP(1) p.Id, p.DisplayName, p.Name
+            FROM Persons AS p
+            WHERE p.Id == @__id_0
+        ) AS t
+        LEFT JOIN Skills AS s ON t.Id == s.PersonId
+        ORDER BY t.Id ASC), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Person>, 
+    TestBackend.Api.Models.Data.ApplicationContext, 
+    False, 
+    False, 
+    True
+)
+    .SingleOrDefault()' 
+2023-09-05 14:32:53.7899|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'. 
+2023-09-05 14:32:53.7899|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:32:53.7899|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:32:53.7899|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:53.7899|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:53.7899|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[@__id_0='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[DisplayName], [t].[Name], [s].[Id], [s].[Level], [s].[Name], [s].[PersonId]
+FROM (
+    SELECT TOP(1) [p].[Id], [p].[DisplayName], [p].[Name]
+    FROM [Persons] AS [p]
+    WHERE [p].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Skills] AS [s] ON [t].[Id] = [s].[PersonId]
+ORDER BY [t].[Id] 
+2023-09-05 14:32:53.7899|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[@__id_0='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[DisplayName], [t].[Name], [s].[Id], [s].[Level], [s].[Name], [s].[PersonId]
+FROM (
+    SELECT TOP(1) [p].[Id], [p].[DisplayName], [p].[Name]
+    FROM [Persons] AS [p]
+    WHERE [p].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Skills] AS [s] ON [t].[Id] = [s].[PersonId]
+ORDER BY [t].[Id] 
+2023-09-05 14:32:53.7899|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Person' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:32:53.7899|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Skill' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:32:53.7899|20301|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:53.7899|20300|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'TestBackend2' on server '(localdb)\mssqllocaldb' is being disposed after spending 0ms reading results. 
+2023-09-05 14:32:53.7899|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:53.7899|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:32:53.7899|0|INFO|TestBackend.Api.Controllers.PersonsController|Ошибка при обработке данных 
+2023-09-05 14:32:53.7899|103|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api), returned result Microsoft.AspNetCore.Mvc.StatusCodeResult in 39.0251ms. 
+2023-09-05 14:32:53.7899|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:53.7899|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:32:53.7899|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:53.7899|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:32:53.7899|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:53.7899|49|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter|Replacing Microsoft.AspNetCore.Mvc.StatusCodeResult with status code 500 with Microsoft.AspNetCore.Mvc.ObjectResult. 
+2023-09-05 14:32:53.7899|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:53.7899|5|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult. 
+2023-09-05 14:32:53.7899|11|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter 
+2023-09-05 14:32:53.7899|4|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|No information found on request to perform content negotiation. 
+2023-09-05 14:32:53.7899|9|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first output formatter in the output formatters list which supports a content type from the explicitly specified content types 'application/problem+json, application/problem+xml, application/problem+json, application/problem+xml'. 
+2023-09-05 14:32:53.7899|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/problem+json' to write the response. 
+2023-09-05 14:32:53.7899|1|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'. 
+2023-09-05 14:32:53.7899|6|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ObjectResult. 
+2023-09-05 14:32:53.7899|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:53.7899|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:32:53.7899|105|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api) in 100.0477ms 
+2023-09-05 14:32:53.7899|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api)' 
+2023-09-05 14:32:53.7899|10407|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'ApplicationContext' disposed. 
+2023-09-05 14:32:53.7899|20007|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:32:53.7899|20008|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (0ms). 
+2023-09-05 14:32:53.7899|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 PUT http://localhost:42486/api/v1/Persons/1 application/json 168 - 500 - application/problem+json;+charset=utf-8 109.6331ms 
+2023-09-05 14:33:10.8343|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 PUT http://localhost:42486/api/v1/Persons/1 application/json 168 
+2023-09-05 14:33:10.8343|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-09-05 14:33:10.8343|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/v1/Persons/1' 
+2023-09-05 14:33:10.8343|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api)' with route pattern 'api/v1/Persons/{id}' is valid for the request path '/api/v1/Persons/1' 
+2023-09-05 14:33:10.8343|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api)' 
+2023-09-05 14:33:10.8343|15|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint. 
+2023-09-05 14:33:10.8343|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api)' 
+2023-09-05 14:33:10.8343|102|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "PutPerson", controller = "Persons"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PutPerson(Int64, TestBackend.Common.Models.PersonModel) on controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api). 
+2023-09-05 14:33:10.8343|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2023-09-05 14:33:10.8343|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None 
+2023-09-05 14:33:10.8343|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) 
+2023-09-05 14:33:10.8343|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-09-05 14:33:10.8343|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) 
+2023-09-05 14:33:10.8343|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:33:10.8343|10403|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 7.0.10 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.10' with options: None 
+2023-09-05 14:33:10.8343|20005|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2023-09-05 14:33:10.8343|20006|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (0ms). 
+2023-09-05 14:33:10.8343|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.8343|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.8343|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteNonQuery'. 
+2023-09-05 14:33:10.8343|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:33:10.8343|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:33:10.8343|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:33:10.8343|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:33:10.8343|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.8343|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:33:10.8343|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteScalar'. 
+2023-09-05 14:33:10.8343|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteScalar' (0ms). 
+2023-09-05 14:33:10.8343|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteScalar' (0ms). 
+2023-09-05 14:33:10.8343|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.8343|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.8343|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0 
+2023-09-05 14:33:10.8806|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (38ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0 
+2023-09-05 14:33:10.8806|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.8806|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:33:10.8806|0|DEBUG|TestBackend.Api.Controllers.PersonsController|NLog injected into TestBackend 
+2023-09-05 14:33:10.8806|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:33:10.8806|22|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'id' of type 'System.Int64' ... 
+2023-09-05 14:33:10.8806|44|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'id' of type 'System.Int64' using the name 'id' in request data ... 
+2023-09-05 14:33:10.8806|45|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'id' of type 'System.Int64'. 
+2023-09-05 14:33:10.8806|23|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'id' of type 'System.Int64'. 
+2023-09-05 14:33:10.8806|26|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'id' of type 'System.Int64' ... 
+2023-09-05 14:33:10.8806|27|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'id' of type 'System.Int64'. 
+2023-09-05 14:33:10.8806|22|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel' ... 
+2023-09-05 14:33:10.8806|44|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder|Attempting to bind parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel' using the name '' in request data ... 
+2023-09-05 14:33:10.8806|1|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder|Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'. 
+2023-09-05 14:33:10.8806|2|DEBUG|Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter|JSON input formatter succeeded, deserializing to type 'TestBackend.Common.Models.PersonModel' 
+2023-09-05 14:33:10.8806|45|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder|Done attempting to bind parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel'. 
+2023-09-05 14:33:10.8806|23|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel'. 
+2023-09-05 14:33:10.8806|26|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel' ... 
+2023-09-05 14:33:10.8806|27|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'personModel' of type 'TestBackend.Common.Models.PersonModel'. 
+2023-09-05 14:33:10.8806|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:33:10.8806|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:33:10.8806|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:33:10.8806|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:33:10.8806|101|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api) - Validation state: Valid 
+2023-09-05 14:33:10.8806|102|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api) with arguments (1, TestBackend.Common.Models.PersonModel) 
+2023-09-05 14:33:10.8806|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'. 
+2023-09-05 14:33:10.8806|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:33:10.8806|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:33:10.8806|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.8920|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.8920|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[@__id_0='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[DisplayName], [t].[Name], [s].[Id], [s].[Level], [s].[Name], [s].[PersonId]
+FROM (
+    SELECT TOP(1) [p].[Id], [p].[DisplayName], [p].[Name]
+    FROM [Persons] AS [p]
+    WHERE [p].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Skills] AS [s] ON [t].[Id] = [s].[PersonId]
+ORDER BY [t].[Id] 
+2023-09-05 14:33:10.8920|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (7ms) [Parameters=[@__id_0='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[DisplayName], [t].[Name], [s].[Id], [s].[Level], [s].[Name], [s].[PersonId]
+FROM (
+    SELECT TOP(1) [p].[Id], [p].[DisplayName], [p].[Name]
+    FROM [Persons] AS [p]
+    WHERE [p].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Skills] AS [s] ON [t].[Id] = [s].[PersonId]
+ORDER BY [t].[Id] 
+2023-09-05 14:33:10.8920|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Person' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:33:10.8920|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Skill' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:33:10.8920|20301|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.8920|20300|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'TestBackend2' on server '(localdb)\mssqllocaldb' is being disposed after spending 0ms reading results. 
+2023-09-05 14:33:10.8920|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.8920|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:33:10.8920|10807|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|An entity of type 'Skill' tracked by 'ApplicationContext' changed state from 'Unchanged' to 'Deleted'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:33:10.8920|10807|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|An entity of type 'Person' tracked by 'ApplicationContext' changed state from 'Unchanged' to 'Modified'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:33:10.8920|10004|DEBUG|Microsoft.EntityFrameworkCore.Update|SaveChanges starting for 'ApplicationContext'. 
+2023-09-05 14:33:10.8920|10800|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|DetectChanges starting for 'ApplicationContext'. 
+2023-09-05 14:33:10.9180|10804|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|1 entities were added and 1 entities were removed from navigation 'Person.Skills'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:33:10.9279|10808|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|'"ApplicationContext"' generated a temporary value for the property '"Id"."Skill"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:33:10.9279|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Skill' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:33:10.9279|10801|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|DetectChanges completed for 'ApplicationContext'. 
+2023-09-05 14:33:10.9486|20700|DEBUG|Microsoft.EntityFrameworkCore.Update|Executing 3 update commands as a batch. 
+2023-09-05 14:33:10.9486|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.9486|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.9486|20209|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Beginning transaction with isolation level 'Unspecified'. 
+2023-09-05 14:33:10.9580|20200|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Began transaction with isolation level 'ReadCommitted'. 
+2023-09-05 14:33:10.9580|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'. 
+2023-09-05 14:33:10.9580|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:33:10.9580|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:33:10.9580|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[@p2='?' (DbType = Int64), @p0='?' (Size = 4000), @p1='?' (Size = 4000), @p3='?' (DbType = Int64), @p4='?' (Size = 1) (DbType = Byte), @p5='?' (Size = 4000), @p6='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Persons] SET [DisplayName] = @p0, [Name] = @p1
+OUTPUT 1
+WHERE [Id] = @p2;
+DELETE FROM [Skills]
+OUTPUT 1
+WHERE [Id] = @p3;
+INSERT INTO [Skills] ([Level], [Name], [PersonId])
+OUTPUT INSERTED.[Id]
+VALUES (@p4, @p5, @p6); 
+2023-09-05 14:33:10.9580|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (7ms) [Parameters=[@p2='?' (DbType = Int64), @p0='?' (Size = 4000), @p1='?' (Size = 4000), @p3='?' (DbType = Int64), @p4='?' (Size = 1) (DbType = Byte), @p5='?' (Size = 4000), @p6='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Persons] SET [DisplayName] = @p0, [Name] = @p1
+OUTPUT 1
+WHERE [Id] = @p2;
+DELETE FROM [Skills]
+OUTPUT 1
+WHERE [Id] = @p3;
+INSERT INTO [Skills] ([Level], [Name], [PersonId])
+OUTPUT INSERTED.[Id]
+VALUES (@p4, @p5, @p6); 
+2023-09-05 14:33:10.9580|10803|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|The foreign key property 'Skill.Id' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values. 
+2023-09-05 14:33:10.9580|20301|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.9580|20300|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'TestBackend2' on server '(localdb)\mssqllocaldb' is being disposed after spending 1ms reading results. 
+2023-09-05 14:33:10.9580|20210|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Committing transaction. 
+2023-09-05 14:33:10.9580|20202|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Committed transaction. 
+2023-09-05 14:33:10.9580|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.9580|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:33:10.9580|20204|DEBUG|Microsoft.EntityFrameworkCore.Database.Transaction|Disposing transaction. 
+2023-09-05 14:33:10.9580|10807|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|An entity of type 'Skill' tracked by 'ApplicationContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:33:10.9580|10807|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|An entity of type 'Person' tracked by 'ApplicationContext' changed state from 'Modified' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:33:10.9764|10807|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|An entity of type 'Skill' tracked by 'ApplicationContext' changed state from 'Deleted' to 'Detached'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:33:10.9764|10005|DEBUG|Microsoft.EntityFrameworkCore.Update|SaveChanges completed for 'ApplicationContext' with 3 entities written to the database. 
+2023-09-05 14:33:10.9764|103|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api), returned result Microsoft.AspNetCore.Mvc.OkResult in 86.6082ms. 
+2023-09-05 14:33:10.9764|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:33:10.9764|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:33:10.9764|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:33:10.9764|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:33:10.9764|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:33:10.9764|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:33:10.9764|5|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.OkResult. 
+2023-09-05 14:33:10.9764|1|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing StatusCodeResult, setting HTTP status code 200 
+2023-09-05 14:33:10.9764|6|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.OkResult. 
+2023-09-05 14:33:10.9764|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:33:10.9764|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:33:10.9764|105|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api) in 141.3461ms 
+2023-09-05 14:33:10.9764|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'TestBackend.Api.Controllers.PersonsController.PutPerson (TestBackend.Api)' 
+2023-09-05 14:33:10.9764|10407|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'ApplicationContext' disposed. 
+2023-09-05 14:33:10.9764|20007|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:10.9764|20008|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (0ms). 
+2023-09-05 14:33:10.9764|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 PUT http://localhost:42486/api/v1/Persons/1 application/json 168 - 200 - - 143.9017ms 
+2023-09-05 14:33:15.5735|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:42486/api/v1/Persons - - 
+2023-09-05 14:33:15.5735|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-09-05 14:33:15.5735|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/v1/Persons' 
+2023-09-05 14:33:15.5735|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api)' with route pattern 'api/v1/Persons' is valid for the request path '/api/v1/Persons' 
+2023-09-05 14:33:15.5735|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api)' 
+2023-09-05 14:33:15.5735|15|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint. 
+2023-09-05 14:33:15.5735|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api)' 
+2023-09-05 14:33:15.5735|102|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "GetAllPersons", controller = "Persons"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllPersons() on controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api). 
+2023-09-05 14:33:15.5735|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2023-09-05 14:33:15.5735|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None 
+2023-09-05 14:33:15.5735|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) 
+2023-09-05 14:33:15.5735|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-09-05 14:33:15.5735|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) 
+2023-09-05 14:33:15.5735|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:33:15.5735|10403|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 7.0.10 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.10' with options: None 
+2023-09-05 14:33:15.5735|20005|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2023-09-05 14:33:15.5735|20006|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (0ms). 
+2023-09-05 14:33:15.5735|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:15.5735|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:15.5735|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteNonQuery'. 
+2023-09-05 14:33:15.5735|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:33:15.5735|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteNonQuery' (0ms). 
+2023-09-05 14:33:15.5735|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:33:15.5735|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2023-09-05 14:33:15.5735|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:15.5798|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:33:15.5798|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteScalar'. 
+2023-09-05 14:33:15.5798|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteScalar' (0ms). 
+2023-09-05 14:33:15.5798|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteScalar' (0ms). 
+2023-09-05 14:33:15.5798|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:15.5798|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:15.5798|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0 
+2023-09-05 14:33:15.6237|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (43ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0 
+2023-09-05 14:33:15.6237|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:15.6237|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:33:15.6237|0|DEBUG|TestBackend.Api.Controllers.PersonsController|NLog injected into TestBackend 
+2023-09-05 14:33:15.6237|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller TestBackend.Api.Controllers.PersonsController (TestBackend.Api) 
+2023-09-05 14:33:15.6237|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:33:15.6237|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:33:15.6237|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:33:15.6237|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:33:15.6237|101|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api) - Validation state: Valid 
+2023-09-05 14:33:15.6237|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'. 
+2023-09-05 14:33:15.6237|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:33:15.6237|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (0ms). 
+2023-09-05 14:33:15.6237|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:15.6237|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:15.6237|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[DisplayName], [p].[Name], [s].[Id], [s].[Level], [s].[Name], [s].[PersonId]
+FROM [Persons] AS [p]
+LEFT JOIN [Skills] AS [s] ON [p].[Id] = [s].[PersonId]
+ORDER BY [p].[Id] 
+2023-09-05 14:33:15.6295|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[DisplayName], [p].[Name], [s].[Id], [s].[Level], [s].[Name], [s].[PersonId]
+FROM [Persons] AS [p]
+LEFT JOIN [Skills] AS [s] ON [p].[Id] = [s].[PersonId]
+ORDER BY [p].[Id] 
+2023-09-05 14:33:15.6295|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Person' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:33:15.6295|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationContext' started tracking 'Skill' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2023-09-05 14:33:15.6295|20301|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:15.6295|20300|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'TestBackend2' on server '(localdb)\mssqllocaldb' is being disposed after spending 0ms reading results. 
+2023-09-05 14:33:15.6295|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:15.6295|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb' (0ms). 
+2023-09-05 14:33:15.6295|103|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 5.9079ms. 
+2023-09-05 14:33:15.6295|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:33:15.6295|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2023-09-05 14:33:15.6295|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:33:15.6295|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-09-05 14:33:15.6295|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:33:15.6295|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:33:15.6295|5|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.OkObjectResult. 
+2023-09-05 14:33:15.6295|11|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter 
+2023-09-05 14:33:15.6295|4|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|No information found on request to perform content negotiation. 
+2023-09-05 14:33:15.6295|8|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response. 
+2023-09-05 14:33:15.6295|10|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result. 
+2023-09-05 14:33:15.6295|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response. 
+2023-09-05 14:33:15.6295|1|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TestBackend.Common.Models.PersonModel, TestBackend.Common.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'. 
+2023-09-05 14:33:15.6295|6|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.OkObjectResult. 
+2023-09-05 14:33:15.6295|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:33:15.6295|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2023-09-05 14:33:15.6295|105|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api) in 56.4008ms 
+2023-09-05 14:33:15.6295|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'TestBackend.Api.Controllers.PersonsController.GetAllPersons (TestBackend.Api)' 
+2023-09-05 14:33:15.6295|10407|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'ApplicationContext' disposed. 
+2023-09-05 14:33:15.6295|20007|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'TestBackend2' on server '(localdb)\mssqllocaldb'. 
+2023-09-05 14:33:15.6295|20008|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (0ms). 
+2023-09-05 14:33:15.6295|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:42486/api/v1/Persons - - - 200 - application/json;+charset=utf-8 58.3517ms 
